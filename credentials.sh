@@ -1,0 +1,3 @@
+dbname=dmbdprj
+dbuser=
+PGPASSWORD=
